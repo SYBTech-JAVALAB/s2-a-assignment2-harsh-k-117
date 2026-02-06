@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Student {
 
     // Final variable for course name
-    final String COURSE_NAME = "Object Oriented Programming";
+    final String COURSE_NAME = "Data Science";
 
     // Static variable to track total students
     static int totalStudents = 0;
